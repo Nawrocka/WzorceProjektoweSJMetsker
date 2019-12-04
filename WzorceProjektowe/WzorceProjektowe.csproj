@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataServicesZ2.2Delegat.cs" />
-    <Compile Include="ShowBorrowingZ2.2Delegat.cs" />
+    <Compile Include="DataServicesZ2.2Interface.cs" />
     <Compile Include="FileFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowBorrowingZ2.2Interface.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

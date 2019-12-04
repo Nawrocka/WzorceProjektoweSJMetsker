@@ -1,0 +1,7 @@
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\WzorceProjektowe.exe.config
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\WzorceProjektowe.exe
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\bin\Debug\WzorceProjektowe.pdb
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.exe
+C:\Users\Maria\source\repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.pdb
